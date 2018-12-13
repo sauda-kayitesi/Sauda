@@ -10,3 +10,6 @@ nav>ul {
   li a:hover {
     background-color:#111;
   }
+  #A{
+    justify-content:space-between;
+    }
